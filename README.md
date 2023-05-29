@@ -1,5 +1,6 @@
-# 
+# OpenTelemetry to DataDog
 
+Reference: https://docs.datadoghq.com/opentelemetry/otel_collector_datadog_exporter/?tab=onahost
 ## Project initialization 
 
 This project has been initialized using:
