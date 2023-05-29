@@ -57,6 +57,8 @@ $ curl \
     https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases/latest/download/opentelemetry-javaagent.jar
 ```
 
+Run the application with `-javaagent` flag
+
 ```console
 $ java \
     -javaagent:./opentelemetry-javaagent.jar \
