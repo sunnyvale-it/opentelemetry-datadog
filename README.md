@@ -63,5 +63,8 @@ Run the application with `-javaagent` flag
 $ java \
     -javaagent:./opentelemetry-javaagent.jar \
     -jar target/opentelemetry-datadog-0.0.1-SNAPSHOT.jar
- 
 ```
+
+If everything went fine, check DataDog and see the application's JVM metrics.
+
+![](img/1.png)
